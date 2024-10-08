@@ -1,5 +1,4 @@
 
-![vit1](https://user-images.githubusercontent.com/75360723/170732994-aff232d4-d202-46df-8397-3d740d20965a.png)
 
 # Hostel Management System
 
